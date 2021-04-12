@@ -1,1 +1,1 @@
-# ci-infra
+# Kubeadm HA cluster scripts.
